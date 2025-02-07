@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi!
+```
+about_me = {
 
-- 🪐 I’m currently learning python, java, and html! 
-> Science is the systematic classification of experience. -George Henry Lewes
+    "Coding Languages": ["Java", "Python", "HTML"],
+    
+    "Passion(s)": ["Artificial Intelligence", "3D Modeling", "Coding Small Projects"],
+    
+    "Platforms I Use (Mainly)": ["Blender", "Unreal Engine 5 (UE5)", "PyCharm"]
+    
+}
+```
+
