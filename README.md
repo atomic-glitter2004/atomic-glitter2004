@@ -2,7 +2,7 @@
 ```
 about_me = {
 
-    "Coding Languages": ["Java", "Python", "HTML"],
+    "Coding Languages": ["Java", "Python", "HTML","C++"],
     
     "Passion(s)": ["Artificial Intelligence", "3D Modeling", "Coding Small Projects"],
     
